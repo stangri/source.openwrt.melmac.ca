@@ -40,3 +40,7 @@
 [submodule "stangri.github.io"]
 	path = stangri.github.io
 	url = git@github.com:stangri/stangri.github.io.git
+[submodule "wk1700k-wireless-regdb"]
+	path = wk1700k-wireless-regdb
+	url = git@github.com:stangri/wk1700k-wireless-regdb.git
+	branch = main
