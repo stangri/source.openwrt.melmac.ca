@@ -44,3 +44,6 @@
 	path = w1700k-wireless-regdb
 	url = git@github.com:stangri/w1700k-wireless-regdb.git
 	branch = main
+[submodule "mwan4"]
+	path = mwan4
+	url = https://github.com/stangri/mwan4.git
