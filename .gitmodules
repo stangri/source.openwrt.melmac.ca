@@ -50,3 +50,6 @@
 [submodule "static-device-names"]
 	path = static-device-names
 	url = https://github.com/mossdef-org/static-device-names
+[submodule "chrome-adblock-fast"]
+	path = chrome-adblock-fast
+	url = git@github.com:mossdef-org/chrome-adblock-fast.git
